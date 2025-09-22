@@ -95,7 +95,7 @@
             <mxRectangle x="400" y="130" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3EEhmBcrY7OR65Bcb5er-65" value="Goverance, Security, Observabiity, Interoperatibility, Sharing" style="swimlane;fillColor=#90A5B1;fontColor=#ffffff;strokeColor=#90A5B1;fontSize=14;startSize=36;" parent="3EEhmBcrY7OR65Bcb5er-60" vertex="1">
+        <mxCell id="3EEhmBcrY7OR65Bcb5er-65" value="Goverance, Security, Observabiity, Interoperatibility, Sharing" style="swimlane;fillColor=#C4CCD6;fontColor=#ffffff;strokeColor=#C4CCD6;fontSize=14;startSize=36;" parent="3EEhmBcrY7OR65Bcb5er-60" vertex="1">
           <mxGeometry x="10" y="380" width="670" height="100" as="geometry">
             <mxRectangle x="400" y="130" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -109,7 +109,7 @@
         <mxCell id="3EEhmBcrY7OR65Bcb5er-73" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt38F78lbRW1Am0jP3_GZGgpluZI8HZ2E9b8eNyyvioACDEoivyUH023kLpr6UUt641zfqKSGFgCxWG7zzinGeoT4V7nLRtUVdh_Z4pxP3-pCVbJz-lJgA0KRPOd1H16MRUL8sPB0BwjuerLrt9_RsW6QO8GuZql6d2hVBFu24DTx5rDxJLOi-d5cKxQ/s2225/Logo%20Apache%20Spark.png;" parent="3EEhmBcrY7OR65Bcb5er-65" vertex="1">
           <mxGeometry x="570" y="48.7" width="76.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0pYRksL1FNYWAxHqus5z-0" value="Process" style="swimlane;fillColor=#90A5B1;fontColor=#ffffff;strokeColor=#90A5B1;fontSize=14;startSize=36;" parent="3EEhmBcrY7OR65Bcb5er-60" vertex="1">
+        <mxCell id="0pYRksL1FNYWAxHqus5z-0" value="Process" style="swimlane;fillColor=#C4CCD6;fontColor=#ffffff;strokeColor=#C4CCD6;fontSize=14;startSize=36;" parent="3EEhmBcrY7OR65Bcb5er-60" vertex="1">
           <mxGeometry x="10" y="50" width="480" height="316" as="geometry">
             <mxRectangle x="400" y="130" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -201,7 +201,7 @@
         <mxCell id="reJXSmA4aoyDP7H5V71n-44" value="Azure&#xa;Databricks" style="shape=image;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjEuMTU0OTk5OTcxMzg5NzcwNSAwLjUgMTUuNjkwMDAxNDg3NzMxOTM0IDE3IiBoZWlnaHQ9IjE3IiB3aWR0aD0iMTUuNjkwMDAxNDg3NzMxOTM0IiBpZD0iYjFlNzE0NzktMjEzOC00NGUwLWFkZjAtMDJmZTlmZWQ1YzFlIj48cGF0aCBmaWxsPSIjZmYzNjIxIiBkPSJNMS4xNTUsNC45M3YuNTEyTDksOS44NjhsNy4wMDYtMy45NTcsMCwxLjZMOSwxMS40OTEsMS41NSw3LjI1OGwtLjM5NS4yMlYxMC41NEw5LDE0Ljk1NWw3LjAwNi0zLjk0MiwwLDEuNTg2TDksMTYuNTgxLDEuNTUsMTIuMzQ3bC0uMzk1LjIydi41MTlMOSwxNy41bDcuODQ1LTQuNDE0VjEwLjAyMWwtLjQtLjIxOEw5LDE0LjAzNiwxLjk5MiwxMC4wNTRWOC40NzZMOSwxMi40MTQsMTYuODQ1LDhWNC45NzhsLS40LS4yMTlMOSw4Ljk5MywyLjM1Miw1LjIxNSw5LDEuNDZsNS40NzYsMy4wOTQuNDc5LS4yNjlWMy44NjNMOSwuNVoiLz48L3N2Zz4=;labelPosition=right;align=left;spacing=6;fontStyle=1;fontSize=12;fontColor=light-dark(#ffffff, #ededed);" parent="0pYRksL1FNYWAxHqus5z-0" vertex="1">
           <mxGeometry x="20" y="10" width="18.82" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3EEhmBcrY7OR65Bcb5er-74" value="BI &amp; Analytics" style="swimlane;fillColor=#90A5B1;fontColor=#ffffff;strokeColor=#90A5B1;fontSize=14;startSize=36;" parent="3EEhmBcrY7OR65Bcb5er-60" vertex="1">
+        <mxCell id="3EEhmBcrY7OR65Bcb5er-74" value="BI &amp; Analytics" style="swimlane;fillColor=#C4CCD6;fontColor=#ffffff;strokeColor=#C4CCD6;fontSize=14;startSize=36;" parent="3EEhmBcrY7OR65Bcb5er-60" vertex="1">
           <mxGeometry x="520" y="216" width="160" height="150" as="geometry">
             <mxRectangle x="400" y="130" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -212,7 +212,7 @@
         <mxCell id="9mLCAhT-A0_taTMdkUAL-0" value="Databricks&lt;br&gt;AI/BI Genie" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Chart.svg;" parent="3EEhmBcrY7OR65Bcb5er-74" vertex="1">
           <mxGeometry x="20" y="57" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="eqF-WW0dj0Ki2Mu_PZAx-0" value="Machine Learning" style="swimlane;fillColor=#90A5B1;fontColor=#ffffff;strokeColor=#90A5B1;fontSize=14;startSize=36;" parent="3EEhmBcrY7OR65Bcb5er-60" vertex="1">
+        <mxCell id="eqF-WW0dj0Ki2Mu_PZAx-0" value="Machine Learning" style="swimlane;fillColor=#C4CCD6;fontColor=#ffffff;strokeColor=#C4CCD6;fontSize=14;startSize=36;" parent="3EEhmBcrY7OR65Bcb5er-60" vertex="1">
           <mxGeometry x="520" y="50" width="160" height="150" as="geometry">
             <mxRectangle x="400" y="130" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -629,7 +629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Marketplace" id="hnliXG5YRL3d3dUrOnFt">
-    <mxGraphModel dx="1205" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
