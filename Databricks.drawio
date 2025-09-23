@@ -983,7 +983,7 @@
         <mxCell id="LVCWa84d_uVa38_Y82ei-169" value="Data Platform Management &amp;amp; Governance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="550" y="100" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LVCWa84d_uVa38_Y82ei-170" value="50%" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1;fontColor=#90A5B1;fontSize=14;" edge="1" parent="1">
+        <mxCell id="LVCWa84d_uVa38_Y82ei-170" value="50%" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1;fontColor=#90A5B1;fontSize=14;strokeColor=none;fillColor=#C4CCD6;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="70" y="390" as="sourcePoint" />
             <mxPoint x="70" y="241.23" as="targetPoint" />
@@ -1046,13 +1046,13 @@
         <mxCell id="LVCWa84d_uVa38_Y82ei-193" value="&lt;ul style=&quot;padding-left: 10px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: nowrap;&quot;&gt;Availability &amp;amp; Performance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: nowrap;&quot;&gt;Incidents&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;fontStyle=0;fontSize=14;strokeColor=none;align=left;spacingLeft=0;spacing=10;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="890" y="561.23" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LVCWa84d_uVa38_Y82ei-194" value="50%" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1;fontColor=#90A5B1;fontSize=14;" edge="1" parent="1">
+        <mxCell id="LVCWa84d_uVa38_Y82ei-194" value="50%" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1;fontColor=#90A5B1;fontSize=14;strokeColor=none;fillColor=#C4CCD6;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="70" y="540" as="sourcePoint" />
             <mxPoint x="70" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LVCWa84d_uVa38_Y82ei-195" value="Automate" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1;fontColor=#90A5B1;fontSize=14;" edge="1" parent="1">
+        <mxCell id="LVCWa84d_uVa38_Y82ei-195" value="Automate" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1;fontColor=#90A5B1;fontSize=14;strokeColor=none;fillColor=#C4CCD6;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="70" y="620" as="sourcePoint" />
             <mxPoint x="70" y="540" as="targetPoint" />
@@ -1066,6 +1066,21 @@
         </mxCell>
         <mxCell id="LVCWa84d_uVa38_Y82ei-205" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;fillColor=#C4CCD6;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="318.73" y="530" width="47.51" height="41.23" as="geometry" />
+        </mxCell>
+        <mxCell id="LVCWa84d_uVa38_Y82ei-206" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;strokeColor=none;fillColor=#C4CCD6;" vertex="1" parent="1">
+          <mxGeometry x="748.75" y="280" width="22.5" height="715" as="geometry" />
+        </mxCell>
+        <mxCell id="LVCWa84d_uVa38_Y82ei-207" value="Data Platform Engineer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFE6CC;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="390" y="660" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVCWa84d_uVa38_Y82ei-208" value="Cloud Platform Engineer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFE6CC;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="583" y="660" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVCWa84d_uVa38_Y82ei-209" value="Architecure" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFE6CC;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="777" y="660" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVCWa84d_uVa38_Y82ei-210" value="Security" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFE6CC;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="970" y="660" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
